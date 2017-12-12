@@ -1,6 +1,9 @@
 <html>
 <body>
 <h1> MLP18 </h1>
-{% include README.md %}
+
+{% capture content %}{% include_relative README.md %}{% endcapture %}
+{{ content | markdownify }}
+
 </body>
 </html>
