@@ -1,9 +1,41 @@
+---
+---
+
+<!DOCTYPE html>
 <html>
+<head>
+  <title>Machine Learning for Programming, 2018</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700"/>
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500,700);
+
+    body {
+      position: relative;
+      font: normal 16px/24px "Ubuntu", sans-serif;
+      color: #8a909b;
+      background-color: #f0f0f0;
+      background-image: url(background.png);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      margin-bottom: 2rem;
+      color: #212121;
+      font-weight: normal;
+      letter-spacing: 1px;
+      line-height: 1em;
+    }
+
+    .container {
+      margin: 96px auto 32px;
+      max-width: 700px;
+    }
+  </style>
+</head>
+
 <body>
-<h1> MLP18 </h1>
-
-{% capture content %}{% include_relative README.md %}{% endcapture %}
-{{ content | markdownify }}
-
+  <div class="container">
+    {% capture content %}{% include_relative README.md %}{% endcapture %}
+    {{ content | markdownify }}
+  </div>
 </body>
 </html>
