@@ -1,7 +1,9 @@
-=== Machine Learning for Programming ===
+# Machine Learning for Programming
 
-July 18-19, Oxford, UK
-Collocated with FLoC 2018 (http://www.floc2018.org/)
+## Summary
+
+*July 18-19, Oxford, UK*
+Collocated with *FLoC 2018* (http://www.floc2018.org/)
 
 The two-day event will feature invited and contributed talks
 on improving software reliability and developer productivity
@@ -11,7 +13,8 @@ techniques of interest include leveraging big code repositories
 program analysis, synthesis, and repair techniques that 
 advance the state of the art.
 
-Invited speakers:
+## Invited speakers:
+
 * Miltos Allamanis, Microsoft Research, https://miltos.allamanis.com/
 * Earl Barr, University College London, http://earlbarr.com/
 * Swarat Chaudhuri, Rice, http://www.cs.rice.edu/~sc40/
@@ -24,6 +27,10 @@ Invited speakers:
 * Martin Vechev, ETH Zurich, http://www.srl.inf.ethz.ch/
 * Jules Villard, Facebook, https://www.doc.ic.ac.uk/~jvillar1/
 
+## Call for papers
+
+### Topics
+
 The workshop accepts submissions of extended abstracts
 that will be disseminated on the workshop web site.
 We welcome applied and theoretical contributions exploring, among others:
@@ -34,6 +41,8 @@ We welcome applied and theoretical contributions exploring, among others:
 * source code representations for learning;
 * applying natural language processing techniques to code, comments, documentation, and other software artifacts;
 * description and evaluations of new tools;
+
+### Format 
 
 Well-prepared surveys and vision statements will also be considered.
 
@@ -48,16 +57,18 @@ http://style.eptcs.org/
 Each accepted extended abstract must be presented by an author
 at the workshop, 18-19 July 2018.
 
-Submission site:
+### Submission site
 
 https://easychair.org/conferences/?conf=mlp2018
 
-Dates:
+### Dates:
+
 * Extended abstract submission deadline: 15 April 2018
 * Acceptance Notification: 15 May 2018
 * Workshop: 18-19 July 2018
 
-Program Committee:
+## Program Committee:
+
 * Marc Brockshmidt, https://www.microsoft.com/en-us/research/people/mabrocks/
 * Aditya Kanade, http://www.iisc-seal.net/kanade/
 * Viktor Kuncak (co-chair), http://lara.epfl.ch/~kuncak/
