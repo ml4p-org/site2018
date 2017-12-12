@@ -13,7 +13,7 @@ techniques of interest include leveraging big code repositories
 program analysis, synthesis, and repair techniques that 
 advance the state of the art.
 
-## Invited speakers:
+## Invited speakers
 
 * Miltos Allamanis, Microsoft Research, https://miltos.allamanis.com/
 * Earl Barr, University College London, http://earlbarr.com/
@@ -61,13 +61,13 @@ at the workshop, 18-19 July 2018.
 
 https://easychair.org/conferences/?conf=mlp2018
 
-### Dates:
+### Dates
 
 * Extended abstract submission deadline: 15 April 2018
 * Acceptance Notification: 15 May 2018
 * Workshop: 18-19 July 2018
 
-## Program Committee:
+## Program Committee
 
 * Marc Brockshmidt, https://www.microsoft.com/en-us/research/people/mabrocks/
 * Aditya Kanade, http://www.iisc-seal.net/kanade/
