@@ -39,11 +39,11 @@ contributions exploring, among others:
 * probabilistic extensions of conventional program analyses;
 * source code representations for learning;
 * applying natural language processing techniques to code, comments, documentation, and other software artifacts;
-* description and evaluations of new tools;
-
-### Format 
+* description and evaluations of new tools.
 
 Well-prepared surveys and vision statements will also be considered.
+
+### Format 
 
 The accepted extended abstracts will not preclude subsequent publication in
 conferences or journals.  Submitted papers should be most 5 pages in length
