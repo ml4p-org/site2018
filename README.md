@@ -39,7 +39,7 @@ contributions exploring, among others:
 * probabilistic extensions of conventional program analyses;
 * source code representations for learning;
 * applying natural language processing techniques to code, comments, documentation, and other software artifacts;
-* description and evaluations of new tools;
+* description and evaluations of new tools.
 
 ### Format 
 
