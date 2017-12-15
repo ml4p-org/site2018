@@ -65,10 +65,10 @@ Each accepted extended abstract must be presented by an author at the workshop,
 
 ## Program Committee
 
-* [Marc Brockshmidt](https://www.microsoft.com/en-us/research/people/mabrocks/)
-* [Aditya Kanade](http://www.iisc-seal.net/kanade/)
-* [Viktor Kuncak (co-chair)](http://lara.epfl.ch/~kuncak/)
-* [Bruno Marnette (co-chair)](https://www.linkedin.com/in/brunomarnette/)
-* [Sebastian Riedel](http://www.riedelcastro.org/)
-* [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/)
-* [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
+* [Marc Brockshmidt](https://www.microsoft.com/en-us/research/people/mabrocks/), Microsoft Research
+* [Aditya Kanade](http://www.iisc-seal.net/kanade/), IISc Bangalore
+* [Viktor Kuncak (co-chair)](http://lara.epfl.ch/~kuncak/), EPFL
+* [Bruno Marnette (co-chair)](https://www.linkedin.com/in/brunomarnette/), Prodo.AI
+* [Sebastian Riedel](http://www.riedelcastro.org/), University College London 
+* [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/), University of Edinburgh
+* [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
