@@ -43,12 +43,11 @@ contributions exploring, among others:
 
 ### Format 
 
-Well-prepared surveys and vision statements will also be considered.
-
 The accepted extended abstracts will not preclude subsequent publication in
 conferences or journals.  Submitted papers should be most 5 pages in length
 (excluding references and appendices) and be prepared using [the EPTCS style
-file](http://style.eptcs.org/).
+file](http://style.eptcs.org/). We will consider original research contributions 
+as well well-prepared surveys and vision statements.
 
 Each accepted extended abstract must be presented by an author at the workshop,
 18-19 July 2018.
@@ -69,5 +68,6 @@ Each accepted extended abstract must be presented by an author at the workshop,
 * [Aditya Kanade](http://www.iisc-seal.net/kanade/)
 * [Viktor Kuncak (co-chair)](http://lara.epfl.ch/~kuncak/)
 * [Bruno Marnette (co-chair)](https://www.linkedin.com/in/brunomarnette/)
+* [Sebastian Riedel](http://www.riedelcastro.org/)
 * [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/)
 * [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
