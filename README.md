@@ -17,8 +17,9 @@ the art.
 * [Miltos Allamanis](https://miltos.allamanis.com/), Microsoft Research
 * [Earl Barr](http://earlbarr.com/), University College London
 * [Swarat Chaudhuri](http://www.cs.rice.edu/~sc40/), Rice
-* [Sergio Giro](https://www.linkedin.com/in/sergio-giro-1005948/), Prodo.AI
 * [Prem Devambu](http://web.cs.ucdavis.edu/~devanbu/), UC Davis
+* [Sergio Giro](https://www.linkedin.com/in/sergio-giro-1005948/), Prodo.AI
+* [Michel Pradel](http://mp.binaervarianz.de/), TU Darmstadt
 * [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/), Microsoft Research
 * [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), UC Berkeley
 * [Danny Tarlow](http://www.cs.toronto.edu/~dtarlow/), Google Brain
