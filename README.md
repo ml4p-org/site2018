@@ -19,6 +19,7 @@ the art.
 * [Swarat Chaudhuri](http://www.cs.rice.edu/~sc40/), Rice
 * [Prem Devambu](http://web.cs.ucdavis.edu/~devanbu/), UC Davis
 * [Sergio Giro](https://www.linkedin.com/in/sergio-giro-1005948/), Prodo.AI
+* [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), DeepMind
 * [Michel Pradel](http://mp.binaervarianz.de/), TU Darmstadt
 * [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/), Microsoft Research
 * [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), UC Berkeley
