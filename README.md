@@ -26,7 +26,7 @@ the art.
 * [Danny Tarlow](http://www.cs.toronto.edu/~dtarlow/), Google Brain
 * [Eran Yahav](http://www.cs.technion.ac.il/~yahave/), Technion
 * [Martin Vechev](http://www.srl.inf.ethz.ch/), ETH Zurich
-* [Jules Villard](https://www.doc.ic.ac.uk/~jvillar1/), Facebook
+* [Jules Villard](https://www.linkedin.com/in/jules-villard-2842a15a/), Facebook
 
 ## Call for papers
 
