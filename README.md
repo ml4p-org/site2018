@@ -74,3 +74,8 @@ Each accepted extended abstract must be presented by an author at the workshop,
 * [Sebastian Riedel](http://www.riedelcastro.org/), University College London 
 * [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/), University of Edinburgh
 * [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
+
+## Sponsors
+
+[Prodo.AI](https://prodo.ai/)
+[Microsoft Research](https://www.microsoft.com/)
