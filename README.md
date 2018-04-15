@@ -60,7 +60,8 @@ Each accepted extended abstract must be presented by an author at the workshop,
 
 ### Dates
 
-* Extended abstract submission deadline: **15 April 2018**
+* Extended abstract submission deadline: **15 April 2018** 
+* Paper revisions accepted until: **30 April 2018*
 * Acceptance Notification: **15 May 2018**
 * Workshop: **18–19 July 2018**
 
