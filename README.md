@@ -77,5 +77,7 @@ Each accepted extended abstract must be presented by an author at the workshop,
 
 ## Sponsors
 
-* [Prodo.AI](https://prodo.ai/)
-* [Microsoft Research](https://www.microsoft.com/)
+<div style="text-align: center;">
+  <a href="https://prodo.ai/"><img src="/sponsors/prodo.svg" alt="Prodo.AI" height="100"/></a>
+  <a href="https://www.microsoft.com/"><img src="/sponsors/microsoft.svg" alt="Microsoft Research" height="100"/></a>
+</div>
