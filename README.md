@@ -43,12 +43,12 @@ contributions exploring, among others:
 * applying natural language processing techniques to code, comments, documentation, and other software artifacts;
 * description and evaluations of new tools.
 
-### Format 
+### Format
 
 The accepted extended abstracts will not preclude subsequent publication in
-conferences or journals.  Submitted papers should be most 5 pages in length
+conferences or journals. Submitted papers should be most 5 pages in length
 (excluding references and appendices) and be prepared using [the EPTCS style
-file](http://style.eptcs.org/). We will consider original research contributions 
+file](http://style.eptcs.org/). We will consider original research contributions
 as well well-prepared surveys and vision statements.
 
 Each accepted extended abstract must be presented by an author at the workshop,
@@ -60,7 +60,7 @@ Each accepted extended abstract must be presented by an author at the workshop,
 
 ### Dates
 
-* Extended abstract submission deadline: **15 April 2018** 
+* Extended abstract submission deadline: **15 April 2018**
 * Paper revisions accepted until: **30 April 2018**
 * Acceptance Notification: **15 May 2018**
 * Workshop: **18–19 July 2018**
@@ -71,7 +71,7 @@ Each accepted extended abstract must be presented by an author at the workshop,
 * [Aditya Kanade](http://www.iisc-seal.net/kanade/), IISc Bangalore
 * [Viktor Kuncak (co-chair)](http://lara.epfl.ch/~kuncak/), EPFL
 * [Bruno Marnette (co-chair)](https://www.linkedin.com/in/brunomarnette/), Prodo.AI
-* [Sebastian Riedel](http://www.riedelcastro.org/), University College London 
+* [Sebastian Riedel](http://www.riedelcastro.org/), University College London
 * [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/), University of Edinburgh
 * [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
