@@ -12,6 +12,12 @@ repositories (such as GitHub) to build models of code and using them for
 program analysis, synthesis, and repair techniques that advance the state of
 the art.
 
+## How to register?
+
+Visit the FLoC [registration page](http://www.floc2018.org/register/), 
+select "Workshops only" (unless you also want to attend CAV or other FLoC events),
+fill in some details, and select two daily tickets for July 18th and July 19th. 
+
 ## Invited speakers
 
 * [Miltos Allamanis](https://miltos.allamanis.com/), Microsoft Research
