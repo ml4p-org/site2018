@@ -23,7 +23,7 @@ fill in some details, and select two daily tickets for July 18th and July 19th.
 * [Miltos Allamanis](https://miltos.allamanis.com/), Microsoft Research
 * [Earl Barr](http://earlbarr.com/), University College London
 * [Swarat Chaudhuri](http://www.cs.rice.edu/~sc40/), Rice
-* [Prem Devambu](http://web.cs.ucdavis.edu/~devanbu/), UC Davis
+* [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/), UC Davis
 * [Sergio Giro](https://www.linkedin.com/in/sergio-giro-1005948/), Prodo.AI
 * [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), DeepMind
 * [Michael Pradel](http://mp.binaervarianz.de/), TU Darmstadt
