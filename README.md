@@ -34,6 +34,10 @@ fill in some details, and select two daily tickets for July 18th and July 19th.
 * [Martin Vechev](http://www.srl.inf.ethz.ch/), ETH Zurich
 * [Jules Villard](https://www.linkedin.com/in/jules-villard-2842a15a/), Facebook
 
+## Programme
+
+<https://easychair.org/smart-program/FLoC2018/MLP-program.html>
+
 ## Call for papers
 
 ### Topics
