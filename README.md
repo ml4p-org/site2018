@@ -85,6 +85,10 @@ Each accepted extended abstract must be presented by an author at the workshop,
 * [Charles Sutton (co-chair)](http://homepages.inf.ed.ac.uk/csutton/), University of Edinburgh
 * [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
+## Student Grants
+
+We have dedicated some budget to cover a limited number of student workshop tickets (and contribute towards travel and accommodation). If you are an MSc student, PhD student or junior Post Doc interested to apply, please contact sara@prodo.ai before June 19th with (1) a brief bio, (2) motivations to attend, and a (3) short list of references. We plan to get back to every candidate on June 20th. 
+
 ## Sponsors
 
 <div class="sponsors">
