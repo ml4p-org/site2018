@@ -28,7 +28,6 @@ fill in some details, and select two daily tickets for July 18th and July 19th.
 - [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), DeepMind
 - [Michael Pradel](http://mp.binaervarianz.de/), TU Darmstadt
 - [Rishabh Singh](https://rishabhmit.bitbucket.io/), Google Brain
-- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), UC Berkeley
 - [Danny Tarlow](http://www.cs.toronto.edu/~dtarlow/), Google Brain
 - [Eran Yahav](http://www.cs.technion.ac.il/~yahave/), Technion
 - [Martin Vechev](http://www.srl.inf.ethz.ch/), ETH Zurich
